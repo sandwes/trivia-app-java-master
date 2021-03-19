@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1893c2d-f4c5-448b-8af7-1b052a3e3ad0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../trivia-app-java-master\exportToHTML" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pvr9Do9gZEHk7FEeeNIkW6THgE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.bm.android.trivia" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="trivia-app-java-master.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1893c2d-f4c5-448b-8af7-1b052a3e3ad0" name="Default Changelist" comment="" />
+      <created>1616074251529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616074251529</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1911" y="449" key="#PSD" timestamp="1616077748433">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state x="1911" y="449" key="#PSD/5120.0.1080.1880/0.0.5120.1400@0.0.5120.1400" timestamp="1616077748433" />
+    <state x="1781" y="505" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616074754260">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state x="1781" y="505" key="#com.intellij.fileTypes.FileTypeChooser/5120.0.1080.1880/0.0.5120.1400@0.0.5120.1400" timestamp="1616074754260" />
+    <state x="2216" y="628" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1616077140619">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state x="2216" y="628" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/5120.0.1080.1880/0.0.5120.1400@0.0.5120.1400" timestamp="1616077140619" />
+    <state x="2176" y="585" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1616077142053">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state x="2176" y="585" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/5120.0.1080.1880/0.0.5120.1400@0.0.5120.1400" timestamp="1616077142053" />
+    <state x="1765" y="450" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616075025800">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state x="1765" y="450" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/5120.0.1080.1880/0.0.5120.1400@0.0.5120.1400" timestamp="1616075025800" />
+    <state x="2174" y="430" key="FileChooserDialogImpl" timestamp="1616078311619">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state x="2174" y="430" key="FileChooserDialogImpl/5120.0.1080.1880/0.0.5120.1400@0.0.5120.1400" timestamp="1616078311619" />
+    <state x="1895" y="348" key="SettingsEditor" timestamp="1616077727268">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state x="1895" y="348" key="SettingsEditor/5120.0.1080.1880/0.0.5120.1400@0.0.5120.1400" timestamp="1616077727268" />
+    <state x="3200" y="114" width="1717" height="958" key="dock-window-1" timestamp="1616076121528">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state x="3200" y="114" width="1717" height="958" key="dock-window-1/5120.0.1080.1880/0.0.5120.1400@0.0.5120.1400" timestamp="1616076121528" />
+    <state x="1866" y="562" key="scopes" timestamp="1616077898231">
+      <screen x="0" y="0" width="5120" height="1400" />
+    </state>
+    <state x="1866" y="562" key="scopes/5120.0.1080.1880/0.0.5120.1400@0.0.5120.1400" timestamp="1616077898231" />
+  </component>
+</project>

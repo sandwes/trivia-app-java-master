@@ -17,8 +17,8 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.ViewModelProviders;
 
-import com.example.android.trivia.R;
 import com.example.android.trivia.API.TriviaQuestion;
+import com.example.android.trivia.R;
 import com.example.android.trivia.viewmodels.GameViewModel;
 import com.example.android.trivia.viewmodels.SummaryViewModel;
 
